@@ -1,4 +1,6 @@
-# Movie API Documentation
+# Ewallet Documentation
+
+Note : This is my first time using python & django 
 
 ## Endpoints :
 
